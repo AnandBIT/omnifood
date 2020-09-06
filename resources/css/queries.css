@@ -21,6 +21,10 @@
     .app-screen {
         width: 46%;
     }
+
+    .meal-photo img:hover {
+        transform: scale(1.04);
+    }
 }
 
 /* Small tablet to big tablet: from 768px to 1023px */
@@ -80,6 +84,10 @@
 
     .contact-form {
         width: 80%;
+    }
+
+    .meal-photo img:hover {
+        transform: scale(1.05);
     }
 }
 
@@ -145,6 +153,10 @@
     .works-step:last-of-type {
         margin-bottom: 38px;
     }
+
+    .meal-photo img:hover {
+        transform: scale(1.06);
+    }
 }
 
 /* Small phones: from 0 to 480px */
@@ -188,5 +200,9 @@
 
     .works-step:last-of-type div {
         margin-top: 2px;
+    }
+
+    .meal-photo img:hover {
+        transform: scale(1.1);
     }
 }
