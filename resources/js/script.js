@@ -86,7 +86,7 @@ $(document).ready(function () {
     $('.js--wp-5').waypoint(function (direction) {
         $('.js--wp-5').addClass('animate__animated animate__fadeIn');
     }, {
-        offset: '40%'
+        offset: '200px'
     });
 
     /* MOBILE NAVIGATION */
